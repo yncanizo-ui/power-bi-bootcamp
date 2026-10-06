@@ -1,2 +1,2 @@
 # power-bi-bootcamp
-Power Bi Santander Bootcamp
+Power BI Bootcamp - DIO
